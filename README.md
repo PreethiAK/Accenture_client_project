@@ -12,43 +12,43 @@ As a Data Analyst in the Business Intelligence team at Accenture (simulated role
 ** Problem Statement**
 The client lacked the internal capacity to manage the volume and complexity of their data. They needed:
 
-An audit of their big data practices
+1 An audit of their big data practices
 
-Insights into content performance trends
+2 Insights into content performance trends
 
-Recommendations to support IPO readiness
+3 Recommendations to support IPO readiness
 
 ** My Contribution**
 
 I led the development of an interactive dashboard in Power BI by:
 
-Understanding the client's business model and KPIs
+1 Understanding the client's business model and KPIs
 
-Gathering, cleaning, and preparing social media data
+2 Gathering, cleaning, and preparing social media data
 
-Building a data model and designing intuitive visuals
+3 Building a data model and designing intuitive visuals
 
-Analyzing content categories and engagement patterns
+4 Analyzing content categories and engagement patterns
 
 Extracting actionable business insights for strategic decision-making
 
 ** Key Tasks Performed**
 
-Participated in a virtual stakeholder meeting (transcript provided as comic format)
+1 Participated in a virtual stakeholder meeting (transcript provided as comic format)
 
-Translated stakeholder requirements into measurable metrics
+2 Translated stakeholder requirements into measurable metrics
 
-Created custom insights beyond the provided brief
+3 Created custom insights beyond the provided brief
 
-Delivered a user-friendly dashboard for executive review
+4 Delivered a user-friendly dashboard for executive review
 
 ** Outcomes**
 
-Identified top-performing content types by engagement metrics
+1 Identified top-performing content types by engagement metrics
 
-Highlighted trends for optimizing future content strategy
+2 Highlighted trends for optimizing future content strategy
 
-Presented key findings in a business-ready format
+3 Presented key findings in a business-ready format
 
 
 Power BI dashboard 
