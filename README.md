@@ -6,7 +6,8 @@ i have done Data Cleaning and Dashboard for Social Buzz Project
 Project: Social Media Content Analysis (Power BI Dashboard)
 Part of the Accenture North America Data Analytics and Visualization Virtual Experience on Forage
 
-**  Project Overview**
+  Project Overview
+
 As a Data Analyst in the Business Intelligence team at Accenture (simulated role), I contributed to a project for Social Buzz, a rapidly growing social media client preparing for an IPO. The client required an audit of their data practices and an in-depth analysis of their content performance to support strategic decisions.
 
  Problem Statement
